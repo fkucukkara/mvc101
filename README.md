@@ -91,8 +91,7 @@ This is a playground project meant for learning and experimentation. Feel free t
 - Share your learnings
 
 ## License
-
-This project is open-source and available for learning purposes.
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Additional Resources
 
